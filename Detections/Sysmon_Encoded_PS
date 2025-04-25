@@ -1,5 +1,5 @@
 kind: Scheduled
-name: Encoded PowerShell Script
+name: Sysmon - Encoded PowerShell Script
 description: Detects encoded PowerShell scripts.
 query: |
   SysmonEvent
