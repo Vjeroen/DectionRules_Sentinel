@@ -1,2 +1,2 @@
 # DectionRules_Sentinel
-This is my standaerdized repo for pushing and modifying detection rulesets in my Sentinel Sandbox 
+Demonstration Repo that is managed and created by our PurpleCrew AI Agent Framework 
